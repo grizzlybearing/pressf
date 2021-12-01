@@ -8,14 +8,10 @@
     <artifactId>Infra</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <properties>
-             
-  <sonar.organization>basilissk</sonar.organization>
+   <properties>
+  <sonar.organization>grizzlybearing</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
- <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.source>16</maven.compiler.source>
-        <maven.compiler.target>16</maven.compiler.target>
-    </properties>
+</properties>
          
          </dependencies>
     <build>
